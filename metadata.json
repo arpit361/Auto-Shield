@@ -1,0 +1,6 @@
+{
+  "name": "AutoShield",
+  "description": "Open-source automotive web browser & video player with Brave-style AdBlock Shield, background audio, and Android Auto passenger entertainment support for moving cars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Shield Outer Outline -->
+    <path
+        android:fillColor="#FF5500"
+        android:pathData="M24,2 L6,8 L6,22 C6,33.5 13.8,43.8 24,46 C34.2,43.8 42,33.5 42,22 L42,8 L24,2 Z" />
+    <!-- Lion Mane Facet Left -->
+    <path
+        android:fillColor="#D64400"
+        android:pathData="M24,7 L11,12 L11,21 C11,25 13,31 18,36 L24,26 L24,7 Z" />
+    <!-- Lion Face Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,10 L19,17 L24,24 L29,17 L24,10 Z" />
+    <!-- Lion Eyes & Nose Accents -->
+    <path
+        android:fillColor="#FF9500"
+        android:pathData="M21,18 L24,21 L27,18 L24,19 Z" />
+    <!-- Lion Chin / Mane Bottom -->
+    <path
+        android:fillColor="#FF7A00"
+        android:pathData="M24,25 L17,29 L20,38 L24,42 L28,38 L31,29 L24,25 Z" />
+</vector>
